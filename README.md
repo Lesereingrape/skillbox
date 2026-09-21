@@ -8,6 +8,7 @@
 |---|---|---|
 | [paper-scout](skills/paper-scout) | 按研究方向检索 arXiv 论文 + GitHub 项目，输出链接与结构化拆解 | `/paper-scout agent memory`、"最近多模态有什么新工作" |
 | [offer-board](skills/offer-board) | 记录投递/面试/offer 状态，渲染 HTML 看板并部署到 GitHub Pages | "字节二面过了"、"更新求职进度"、"部署进度看板" |
+| [interview-prep](skills/interview-prep) | 简历+JD 生成分层面试准备文档，投喂面经自动按频次升降优先级 | "帮我准备 X 公司面试"、"收到一份面经"、"今天被问了…" |
 | [skill-share](skills/skill-share) | 校验新 skill 规范并收录进本仓库、同步 GitHub | "把这个 skill 收录进仓库"、"检查 skill 规范" |
 
 ## 安装
