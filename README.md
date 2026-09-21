@@ -13,7 +13,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<you>/qoder-skill-box.git && cd qoder-skill-box
+git clone https://github.com/Lesereingrape/skillbox.git && cd skillbox
 
 # macOS / Linux / Git Bash
 bash install.sh
